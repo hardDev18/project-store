@@ -76,7 +76,6 @@ a {
 
 .w-custom {
     width: 260px !important;
-    right: -5rem !important;
 }
 
 .card-custom {
@@ -429,7 +428,7 @@ a {
 
     .w-custom {
         width: 240px !important;
-        right: -1rem !important;
+        right: 1rem !important;
     }
 
     .nav-hover {
