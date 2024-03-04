@@ -5,7 +5,7 @@
 
 ---
 ### View the project online🙃
-[View the website](addres site)
+[View the website](https://harddev18.github.io/project-store/)
 
 ---
 ### Items used in the project😎
